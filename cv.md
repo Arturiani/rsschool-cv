@@ -37,7 +37,6 @@ Hello. I live to make life better. I am disciplined, educated, sociable. Worked 
     + Self education
 * NOT IT
     + Institute of Culture of the Republic of Belarus
-        - magistracy (didn't finish)
     + Belarusian State Academy of Music
     + College of Arts N.F. Sokolovsky
 
