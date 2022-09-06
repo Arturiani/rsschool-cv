@@ -1,5 +1,3 @@
-![Artur Lisiankou](/src/img/photo.jpeg)
-
 # Artur Lisiankou
 front-end developer
 
